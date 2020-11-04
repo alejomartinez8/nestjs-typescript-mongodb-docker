@@ -1,0 +1,42 @@
+.title,
+.time {
+  font-size: 13px;
+  color: #333;
+}
+
+.author {
+  font-size: 13px;
+  color: #999;
+}
+
+table {
+  border: 1px solid;
+  width: 100%;
+}
+
+td {
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+}
+
+tr:hover {
+  background-color: #fafafa;
+}
+
+.icon-trash {
+  visibility: hidden;
+}
+
+tr:hover td i {
+  visibility: visible;
+}
+
+tr {
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+main {
+  margin: 0;
+  width: 100%;
+}
