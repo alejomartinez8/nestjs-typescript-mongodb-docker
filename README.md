@@ -1,4 +1,3 @@
-# Alejandro Martínez - Full Stack Developer - Reign.cl Challenge
 
 ## Installation
 
